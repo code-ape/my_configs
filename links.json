@@ -4,6 +4,7 @@
     "lein": ".lein",
     "bash_profile": ".bash_profile",
     "bashrc": ".bashrc",
-    "gitconfig": ".gitconfig"
+    "gitconfig": ".gitconfig",
+    "nixpkgs": ".nixpkgs"
   }
 }

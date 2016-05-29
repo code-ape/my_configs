@@ -1,3 +1,5 @@
 [user]
 	email = ferris@ferrisellis.com
 	name = Ferris
+[push]
+	default = simple
