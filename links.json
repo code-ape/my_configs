@@ -1,0 +1,9 @@
+{
+  "link_to_repo": ".config",
+  "config_links": {
+    "lein": ".lein",
+    "bash_profile": ".bash_profile",
+    "bashrc": ".bashrc",
+    "gitconfig": ".gitconfig"
+  }
+}
